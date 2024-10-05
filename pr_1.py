@@ -1,0 +1,17 @@
+print("Hello! Please input your information")
+# Block input
+name = input("Name: ")
+surname = input("Surname: ")
+phone_number = input("Phone_number: ")
+street = input("Street: ")
+building_number = input("Bulding number: ")
+number_flat = input("Number flat: ")
+city = input("City: ")
+index = input("Index: ")
+country = input("Country: ")
+# Block print
+print(name, surname)
+print(phone_number)
+print("Str.", street, building_number, "ap.", city)
+print(index)
+print(country)
